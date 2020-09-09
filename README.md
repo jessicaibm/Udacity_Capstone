@@ -47,6 +47,7 @@ Files created and exported within project:
 
 ### Blog Post
 
+https://medium.com/@jhorvath92/customer-segmentation-for-arvato-financial-services-e3a9483f1fb7
 
 ### Acknowledgement
 
