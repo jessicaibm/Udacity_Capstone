@@ -5,10 +5,9 @@ Udacity Data Science Nanodegree Capstone project: Create a Customer Segmentation
 
 1. [Installation](#Installation)
 2. [Project Motivation](#Project-Motivation)
-3. [Data](#Data)
-4. [File Descriptions](#File-Descriptions)
-5. [Instructions](#Instructions)
-6. [Acknowledgement](#Acknowledgement)
+3. [File Descriptions](#File-Descriptions)
+4. [Blog Post](#BlogPost)
+5. [Acknowledgement](#Acknowledgement)
 
 ### Installation
 
@@ -29,7 +28,7 @@ This project requires **Python 3.x** and the following Python libraries installe
    - Use a chosen model to make predictions on the mail order campaign data as part of a Kaggle Competition
    - Rank the individuals by how likely they are to convert to being a customer, and see how your modeling skills measure up against your fellow students.
 
-### Data
+### File Descriptions
 Raw Data files:<br>
 - Udacity_AZDIAS.csv: Demographics data for the general population of Germany; 891 211 persons (rows) x 366 features (columns).
 - Udacity_CUSTOMERS.csv: Demographics data for customers of a mail-order company; 191 652 persons (rows) x 369 features (columns).
@@ -46,11 +45,8 @@ Files created and exported within project:
 
 - kaggle_competition.csv: Entry to kaggle competition. Dataframe with two columns, one with the ID number for each individual in the "TEST" partition, the second column a measure of how likely each individual became a customer.
 
+### Blog Post
 
-### File Descriptions
-
-
-### Instructions:
 
 ### Acknowledgement
 
